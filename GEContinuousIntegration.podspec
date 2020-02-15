@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name = "GEContinuousIntegration"
-  s.version = "0.1.3"
+  s.version = "0.1.4"
   s.source = { :git => "https://github.com/grigorye/GEContinuousIntegration.git", :tag => "#{s.version}" }
   s.summary = "A few scripts that might be reused for common tasks specific to continous integration."
   s.description = <<~END
